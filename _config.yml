@@ -1,0 +1,14 @@
+layout_spectrum: 0.8483651
+typography_spectrum: 0.1910148
+color:
+  saturation: 0.2364615
+  lightness: 0.2015847
+  brandStrength: 0.1315449
+  rhythmicContrast: 0.9719605
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Aloha
