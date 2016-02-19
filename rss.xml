@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aloha]]></title>
+        <description><![CDATA[Aloha]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 00:18:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Greetings...]]></title>
+            <description><![CDATA[<article><h1>Greetings...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbf6bafe3d45f670032c51e231bb69305794d617.png"></article>]]></description>
+            <link>undefinedgreetings/index.html</link>
+            <guid isPermaLink="false">ce226fcc-194a-46ac-bcbb-330ec2f1f082</guid>
+            <pubDate>Fri, 19 Feb 2016 00:18:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
